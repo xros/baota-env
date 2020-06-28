@@ -1,7 +1,7 @@
 The enviroment for baota systems
 --------------------------
 
-This works with https://hub.docker.com/xros/baota
+This works with https://hub.docker.com/repository/docker/xros/baota
 
 Create a docker volume first `docker create volumne baota`
 
